@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![GitHub followers](https://img.shields.io/github/followers/kumarreddy302.svg?style=social&label=Follow)](https://github.com/kumarreddy302)
+
 <!--
 **kumarreddy302/kumarreddy302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
